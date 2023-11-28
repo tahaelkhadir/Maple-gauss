@@ -1,4 +1,4 @@
-# Maple-gauss
+# gauss-Maple
 # by cosmosse
 
 gauss_elimination := proc (A, B)
